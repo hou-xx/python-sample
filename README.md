@@ -1,7 +1,7 @@
 # python-sample
 python 练习
 
-## [发送邮件][1]
+## [发送邮件](1)
 <!-- 密钥GysuaZjiRZtrQzmk -->
 
 
