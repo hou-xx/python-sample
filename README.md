@@ -5,5 +5,5 @@ python 练习
 <!-- 密钥GysuaZjiRZtrQzmk -->
 
 
-[11]: https://github.com/hou-xx/python-sample/blob/master/mail_sample.py
+[1]: https://github.com/hou-xx/python-sample/blob/master/mail_sample.py
 
